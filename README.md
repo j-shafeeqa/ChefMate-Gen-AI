@@ -1,6 +1,12 @@
 # ChefMate: Your Culinary Companion
 
-[![Watch the video](https://img.youtube.com/vi/HCukr7_ErbU/maxresdefault.jpg)](https://youtu.be/HCukr7_ErbU)
+## See ChefMate in Action! 🍽️
+
+🎥 **Click below to watch ChefMate in action and see how it transforms your cooking experience!**  
+
+[![Watch the video](https://img.youtube.com/vi/HCukr7_ErbU/maxresdefault.jpg)](https://youtu.be/HCukr7_ErbU)  
+
+👉 **[Watch Now](https://youtu.be/HCukr7_ErbU)**
 
 Welcome to **ChefMate** – an innovative generative AI model developed in collaboration with [PartyRock](https://partyrock.aws). ChefMate is designed to revolutionize your cooking experience by providing personalized three-course meal recommendations tailored to your mood, dietary restrictions, and available ingredients.
 
