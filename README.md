@@ -62,39 +62,11 @@ Experience the magic of ChefMate yourself:
 - **Official Website:**  
   [PartyRock](https://partyrock.aws)
 
-- **Documentation:**  
-  Stay tuned for in-depth documentation and tutorials to help you make the most out of ChefMate.
-
-- **Community Forum:**  
-  Join discussions with other culinary enthusiasts and AI aficionados.
-
----
-
-## Contributing
-
-We welcome contributions from the community! If you'd like to help improve ChefMate, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ---
 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## Contact
-
-For any questions or support, feel free to reach out:
-
-- **Project Maintainer:** [Your Name or Handle]
-- **Email:** [your.email@example.com]
-- **GitHub Issues:** [Submit an Issue](https://github.com/your-repository/issues)
 
 ---
 
