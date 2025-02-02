@@ -44,9 +44,9 @@ Welcome to **ChefMate** – an innovative generative AI model developed in colla
 
 ChefMate leverages advanced generative AI techniques to analyze your inputs and generate recipes that match your preferences. It makes meal planning fun and effortless! Simply tell us:
 
-💭 How you’re feeling (Are you craving comfort food or something healthy?)
-🥦 Any dietary restrictions (Vegan? Gluten-free? We got you!)
-🛒 What’s in your kitchen (No need for a grocery run—we’ll work with what you have!)
+- 💭 How you’re feeling (Are you craving comfort food or something healthy?)
+- 🥦 Any dietary restrictions (Vegan? Gluten-free? We got you!)
+- 🛒 What’s in your kitchen (No need for a grocery run—we’ll work with what you have!)
 
 🎉 Voilà! The AI whips up a delicious three-course meal with detailed recipes, images, and nutrition info.
 
